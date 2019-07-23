@@ -4,3 +4,7 @@ c
 c++
 Java 
 python
+
+Ruby 
+Angular
+.NETNET
